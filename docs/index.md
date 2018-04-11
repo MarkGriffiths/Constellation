@@ -1,7 +1,11 @@
+![Constellation][logo]
+
 A simple, wearable, low cost system for seeing shared hashtag matches in social situations. Implemented using BLE beacons on the Raspberry Pi Zero W.
 
-# Share you interests. See who has what you want, or wants what you have.
+### See who shares what you want, or wants what you share.
 
-Hardware
+#### Hardware requirements
 
+#### Software requirements
 
+[logo]: https://raw.githubusercontent.com/MarkGriffiths/Constellation/master/media/Logo.png
